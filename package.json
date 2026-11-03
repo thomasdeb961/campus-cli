@@ -1,0 +1,16 @@
+{
+  "name": "campus-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "campus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node campus.js",
+    "dev": "node --watch campus.js",
+    "versions": "node -v && npm -v"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
