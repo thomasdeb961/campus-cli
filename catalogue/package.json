@@ -1,0 +1,17 @@
+{
+  "name": "catalogue",
+  "version": "1.0.0",
+  "description": "Catalogue de produits - bases de TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^6.0.3"
+  }
+}
